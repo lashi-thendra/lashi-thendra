@@ -1,16 +1,60 @@
-### Hi there 👋
+# Hey, I'm Lashithendra Bandara! 👋
 
-<!--
-**lashi-thendra/lashi-thendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate engineer from the University of Peradeniya, and I'm a passionate developer with a diverse skill set in both front-end and back-end development. Here's a glimpse of my tech toolbox
 
-Here are some ideas to get you started:
+## General Purpose Programming Languages
+- Java
+- JavaScript
+- TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Markup, Expression, and Other Languages
+- HTML5
+- CSS3
+- JSON
+- YAML
+
+### Core Frameworks
+- Spring
+
+### Cloud Platforms
+- GitHub Pages
+- Google Cloud
+
+### Database Management Systems
+- MySQL
+- MongoDB
+
+## Java Libraries and Frameworks
+- Spring
+- Spring Boot
+- Hibernate
+
+## ECMAScript Libraries and Frameworks
+- Angular
+- Express
+- jQuery
+
+## Tools
+- JDK tools
+- Git
+- Docker
+- npm
+- pnpm
+- Postman
+
+## IDEs
+- IntelliJ IDEA
+- Visual Studio Code
+
+## Build Tools
+- Apache Ant
+- Apache Maven
+
+### Operating Systems
+- Linux
+- Windows
+
+I'm constantly exploring new technologies and looking for exciting projects to work on. Let's connect and collaborate to build something awesome! 🚀
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lashithendra-bandara) or via email at lashithendrabandara@email.com. Let's code the future together! 😄
+
