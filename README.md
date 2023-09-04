@@ -2,7 +2,7 @@
 
 I am a graduate engineer from the University of Peradeniya, and I'm a passionate developer with a diverse skill set in both front-end and back-end development. Here's a glimpse of my tech toolbox
 
-## General Purpose Programming Languages
+## Programming Languages
 - Java
 - JavaScript
 - TypeScript
@@ -13,7 +13,7 @@ I am a graduate engineer from the University of Peradeniya, and I'm a passionate
 - JSON
 - YAML
 
-### Core Frameworks
+### Frameworks
 - Spring
 
 ### Cloud Platforms
@@ -28,6 +28,7 @@ I am a graduate engineer from the University of Peradeniya, and I'm a passionate
 - Spring
 - Spring Boot
 - Hibernate
+- JavaFX
 
 ## ECMAScript Libraries and Frameworks
 - Angular
@@ -56,5 +57,5 @@ I am a graduate engineer from the University of Peradeniya, and I'm a passionate
 
 I'm constantly exploring new technologies and looking for exciting projects to work on. Let's connect and collaborate to build something awesome! 🚀
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lashithendra-bandara) or via email at lashithendrabandara@email.com. Let's code the future together! 😄
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lashithendra-bandara-a46791231) or via email at lashithendrabandara@email.com. Let's code the future together! 😄
 
