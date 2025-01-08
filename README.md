@@ -14,7 +14,8 @@ I'm a graduate engineer from the University of Peradeniya, and I'm a passionate 
 - ![HTML5](https://img.shields.io/badge/HTML5-%23e34f26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-%231f61a3?style=flat-square&logo=css3&logoColor=white)
 - ![JSON](https://img.shields.io/badge/JSON-%23000000?style=flat-square&logo=json&logoColor=white)
-- ![XML](https://img.shields.io/badge/YAML-%23000000?style=flat-square&logo=yaml&logoColor=white)
+- ![XML](https://img.shields.io/badge/XML-%23f7df1e?style=flat-square&logo=xml&logoColor=white)
+
 
 ### Frameworks
 - ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23007ACC?style=flat-square&logo=asp.net&logoColor=white)
