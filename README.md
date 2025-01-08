@@ -55,5 +55,5 @@ I'm a graduate engineer from the University of Peradeniya, and I'm a passionate 
 
 I'm constantly exploring new technologies and looking for exciting projects to work on. Let's connect and collaborate to build something awesome! 🚀
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lashithendra-bandara-a46791231) or via email at lashithendrabandara@email.com. Let's code the future together! 😄
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lashithendra-bandara-a46791231) or via email at lashithendra.bandara@gmail.com. Let's code the future together! 😄
 
